@@ -18,7 +18,7 @@
           },
           { 
             "type": "Layer", 
-            "id": "std",  
+            "id": "example231",  
             "title": "上里付近",
             "url": "http://hwakui.github.io/gsimaps/example231/{z}/{x}/{y}.geojson",
             "html": "<a href='https://github.com/hwakui/gsimaps/edit/gh-pages/layers_txt/my_layers.txt'>編集</a>",
