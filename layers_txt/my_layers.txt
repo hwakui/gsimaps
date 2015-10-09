@@ -7,7 +7,7 @@
            { 
             "type": "Layer", 
             "id": "std",  
-            "title": "標準地図",  
+            "title": "標準地図（ハンズオン用サンプル）",  
             "iconUrl": "",  
             "url": "http://cyberjapandata.gsi.go.jp/xyz/std/{z}/{x}/{y}.png",  
             "subdomains": "",  
